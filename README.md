@@ -1,0 +1,2 @@
+# arewapay
+ArewaPay wallet application
